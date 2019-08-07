@@ -2,6 +2,16 @@
 <?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" schematypens="http://relaxng.org/ns/structure/1.0"?>
 <?xml-stylesheet type="text/xsl" href="teibp.xsl"?>
 
+<!DOCTYPE transcription [
+	<!ENTITY lac "[Lacuna]"> <!-- Lacuna -->  
+	<!ENTITY fāṣila "·"> <!-- fāṣila -->
+	<!ENTITY fāṣila3 "·"> <!-- fāṣila3 -->
+	<!ENTITY fāṣila4 "·"> <!-- fāṣila4 -->
+	<!ENTITY fāṣila5 "·"> <!-- fāṣila5 -->
+	<!ENTITY fāṣila6 " ∵ "> <!-- fāṣila6 -->
+	<!ENTITY ḫātima "~~~~~~~~"> <!--ḫātima -->
+]>
+
 <TEI
   xmlns:xi="http://www.w3.org/2001/XInclude"
   xmlns:svg="http://www.w3.org/2000/svg"
