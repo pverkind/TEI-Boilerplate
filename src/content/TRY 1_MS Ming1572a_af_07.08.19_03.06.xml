@@ -1,13 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<?xml-stylesheet type="text/xsl" href="Arabic1.xsl"?><!DOCTYPE transcription [
-	<!ENTITY lac "[Lacuna]"> <!-- Lacuna -->  
-	<!ENTITY fāṣila "·"> <!-- fāṣila -->
-	<!ENTITY fāṣila3 "·"> <!-- fāṣila3 -->
-	<!ENTITY fāṣila4 "·"> <!-- fāṣila4 -->
-	<!ENTITY fāṣila5 "·"> <!-- fāṣila5 -->
-	<!ENTITY fāṣila6 " ∵ "> <!-- fāṣila6 -->
-	<!ENTITY ḫātima "~~~~~~~~"> <!--ḫātima -->
-]>
+<?xml-stylesheet type="text/xsl" href="teibp.xsl"?>
+
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
  <teiHeader>
   <fileDesc>
