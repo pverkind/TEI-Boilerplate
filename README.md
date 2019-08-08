@@ -1,3 +1,6 @@
+First attempt to publish Alba Fedeli's transcription of the Mingana Qur'an. 
+See the (disappointing) result here: https://pverkind.github.io/TEI-Boilerplate/dist/content/mingana.xml
+
 #About TEI Boilerplate
 
 [TEI Boilerplate](http://teiboilerplate.org/) (<http://teiboilerplate.org/>) is a lightweight solution for publishing styled [TEI](http://www.tei-c.org/) ([Text Encoding Initiative](http://www.tei-c.org/)) P5 content directly in modern browsers. With TEI Boilerplate, TEI XML files can be served directly to the web without server-side processing or translation to HTML. Our [TEI Boilerplate Demo](http://dcl.slis.indiana.edu/teibp/content/demo.xml) illustrates many TEI features rendered by TEI Boilerplate.
